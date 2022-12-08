@@ -24,7 +24,7 @@ const WorldParams = Object.freeze({
     'G': 6.67 * Math.pow(10, -11),
     'FPS': 24,
     'MAX_COUNT_OF_ELEMENTS': 100,
-    'VISIBILITY': 0.8,
+    'VISIBILITY': 0.4,
 })
 
 class Clock {
